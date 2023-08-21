@@ -1,2 +1,2 @@
 # myStudyHome
-# Cocos Creator 3.7.3
+Cocos Creator 3.7.3
